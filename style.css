@@ -1,0 +1,83 @@
+
+    body {
+        font-family: Oregano, sans-serif; 
+      }
+     
+      html {
+        scroll-behavior: smooth;
+      }
+      
+/* grid styling*/
+      .grid {
+        width: 800px;
+        height: 600px;
+        margin: auto;
+        margin-top: 100px;
+        display: inline-flexbox;
+        flex-wrap: wrap;
+        margin-bottom: 1px;
+        display: flow-root;  
+      }
+   
+      .grid img {
+        float: center;
+        border: 0px ;
+        width: 45%;
+        margin: 0%;  
+      }
+        
+       
+/* Project stylibg*/
+        #works1, #works3 {
+            background-color:pink;
+            border-color: brown;
+            border: 10px solid;
+            display: flow-root;
+            font-size: larger;
+            padding-left: 50px;
+        }
+
+        #works2,  #works4 {
+            background-color:beige;
+            border-color: brown;
+            border: 10px solid;
+            display: flow-root;
+            font-size: larger;
+            padding-left: 50px;
+        }
+        .sample-img1 {
+          margin-right: 600px;
+        }
+
+        .zoom {
+          transition: transform .2s; /* Animation */
+           } 
+           
+         .zoom:hover { 
+           transform: scale(1.5); 
+           }
+
+/* About YeBa Styling*/
+
+        #Aboutyeba {
+            Font: Cursive
+            font-color rgb(55, 28, 2);
+            background-color: beige;
+            border: 10px solid rgb(55, 28, 2);
+            display: flow-root; 
+          }
+            
+          
+            
+
+
+            
+              
+              
+
+    
+
+    
+
+  
+  
