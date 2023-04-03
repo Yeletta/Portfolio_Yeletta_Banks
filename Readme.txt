@@ -1,5 +1,7 @@
 Challenge Two
 
+Screenshot:
+https://github.com/Yeletta/Portfolio_Yeletta_Banks
 
 Acceptance Criteria:
 ## Acceptance Criteria
